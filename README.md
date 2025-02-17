@@ -1,3 +1,6 @@
 1. `source venv/bin/activate`
 
-2. `streamlit run app.py`
+2. `pip install -r requirements.txt` 
+
+3. `streamlit run app.py`
+
