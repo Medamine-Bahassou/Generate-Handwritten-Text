@@ -1,0 +1,1 @@
+test txt for the text2hand.py

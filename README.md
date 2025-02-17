@@ -1,2 +1,3 @@
-# Generate-Handwritten-Text
-Generate Handwritten Text 
+1. `source venv/bin/activate`
+
+2. `streamlit run app.py`
